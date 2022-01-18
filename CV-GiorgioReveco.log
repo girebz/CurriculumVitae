@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.4)  18 JAN 2022 19:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.4)  18 JAN 2022 19:27
 entering extended mode
 **./CV-GiorgioReveco.tex
 (CV-GiorgioReveco.tex
@@ -507,32 +507,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--50
 [1
 
 {C:/Users/giorg/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (11.91837pt too wide) in paragraph at lines 61--85
+Overfull \hbox (11.91837pt too wide) in paragraph at lines 61--86
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--96
+Underfull \hbox (badness 10000) in paragraph at lines 92--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--100
+Underfull \hbox (badness 10000) in paragraph at lines 98--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--103
+Underfull \hbox (badness 10000) in paragraph at lines 60--104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--113
+Underfull \hbox (badness 10000) in paragraph at lines 105--114
 
  []
 
@@ -552,7 +552,7 @@ amsfonts/cm/cmbx12.pfb><C:/Users/giorg/AppData/Local/Programs/MiKTeX/fonts/type
 nts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/giorg/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/giorg/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV-GiorgioReveco.pdf (2 pages, 107669 bytes).
+Output written on CV-GiorgioReveco.pdf (2 pages, 108364 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
