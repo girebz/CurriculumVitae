@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.4)  18 JAN 2022 19:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.4)  18 JAN 2022 19:21
 entering extended mode
-**"./CV - Docencia - Giorgio Reveco.tex"
-(CV - Docencia - Giorgio Reveco.tex
+**./CV-GiorgioReveco.tex
+(CV-GiorgioReveco.tex
 LaTeX2e <2021-06-01>
 L3 programming layer <2021-06-01> (res.cls
 Document Style `res' <26 Sep 89>.
@@ -388,7 +388,7 @@ Package babel Info: Making > an active character on input line 722.
 LaTeX Warning: Unused global option(s):
     [10pt].
 
-No file "CV - Docencia - Giorgio Reveco".aux.
+No file CV-GiorgioReveco.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
@@ -539,12 +539,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--114
 [2] ) 
 Here is how much of TeX's memory you used:
  10769 strings out of 478864
- 164705 string characters out of 2848661
- 601037 words of memory out of 3000000
+ 164557 string characters out of 2848661
+ 601021 words of memory out of 3000000
  28553 multiletter control sequences out of 15000+600000
  405906 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,11n,81p,551b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,11n,81p,536b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/giorg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb><C:/Users/giorg/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb><C:/Users/giorg/AppData/Local/Programs/MiKTeX/fonts/type
@@ -552,8 +552,7 @@ amsfonts/cm/cmbx12.pfb><C:/Users/giorg/AppData/Local/Programs/MiKTeX/fonts/type
 nts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/giorg/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/giorg/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "CV - Docencia - Giorgio Reveco.pdf" (2 pages, 107736 bytes).
-
+Output written on CV-GiorgioReveco.pdf (2 pages, 107733 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
