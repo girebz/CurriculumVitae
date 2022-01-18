@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.4)  18 JAN 2022 19:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.4)  18 JAN 2022 19:23
 entering extended mode
 **./CV-GiorgioReveco.tex
 (CV-GiorgioReveco.tex
@@ -500,51 +500,51 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 11.
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
 
  []
 
 [1
 
 {C:/Users/giorg/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (11.91837pt too wide) in paragraph at lines 62--86
+Overfull \hbox (11.91837pt too wide) in paragraph at lines 61--85
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--91
+Underfull \hbox (badness 10000) in paragraph at lines 87--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--97
+Underfull \hbox (badness 10000) in paragraph at lines 91--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--101
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--104
+Underfull \hbox (badness 10000) in paragraph at lines 60--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--114
+Underfull \hbox (badness 10000) in paragraph at lines 104--113
 
  []
 
 [2] ) 
 Here is how much of TeX's memory you used:
- 10769 strings out of 478864
- 164557 string characters out of 2848661
+ 10765 strings out of 478864
+ 164500 string characters out of 2848661
  601021 words of memory out of 3000000
- 28553 multiletter control sequences out of 15000+600000
+ 28549 multiletter control sequences out of 15000+600000
  405906 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,11n,81p,536b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,11n,81p,536b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/giorg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb><C:/Users/giorg/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb><C:/Users/giorg/AppData/Local/Programs/MiKTeX/fonts/type
@@ -552,7 +552,7 @@ amsfonts/cm/cmbx12.pfb><C:/Users/giorg/AppData/Local/Programs/MiKTeX/fonts/type
 nts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/giorg/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/giorg/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV-GiorgioReveco.pdf (2 pages, 107733 bytes).
+Output written on CV-GiorgioReveco.pdf (2 pages, 107669 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
